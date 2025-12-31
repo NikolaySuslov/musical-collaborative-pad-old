@@ -1,0 +1,82 @@
+{"padTitle":"newCodeMirror",
+"positions":{"map":{"__map":true,
+"values":[["0",{"height":304.8380659635966,
+"id":"0",
+"type":"move",
+"width":555.0927335370905,
+"x":-258.5766269900489,
+"y":-424.5519039277561}],["1",{"height":587.4772066891185,
+"id":"1",
+"type":"resize",
+"width":936.6501446289095,
+"x":419.9946040576747,
+"y":-437.2699099268228}],["25",{"height":400,
+"id":"25",
+"width":800,
+"x":-255.27373596865397,
+"y":-871.4629858136137}],["27",{"height":400,
+"id":"27",
+"type":"move",
+"width":800,
+"x":580.5596305372613,
+"y":-904.3360654330814}]]}},
+"titles":{"map":{"__map":true,
+"values":[["0",{"id":"0",
+"state":false,
+"title":"Croquet"}],["1",{"id":"1",
+"state":false,
+"title":"untitled"}],["25",{"id":"25",
+"state":false,
+"title":"untitled"}],["27",{"id":"27",
+"state":false,
+"title":"untitled"}]]}},
+"version":3,
+"windowEnabled":{"map":{"__map":true,
+"values":[["0",{"enabled":true,
+"id":"0"}],["1",{"enabled":true,
+"id":"1"}],["25",{"enabled":true,
+"id":"25"}],["27",{"enabled":true,
+"id":"27"}]]}},
+"windowTypes":{"map":{"__map":true,
+"values":[["0","code"],["1","code"],["25","runner"],["27","runner"]]}},
+"windows":["0","1","25","27"],
+"zIndex":{"map":{"__map":true,
+"values":[["0",103],["1",100],["25",104],["27",105]]}}}
+{__codeMap: true, value: [[`0`, `({
+  "appParameters": {
+    "apiKey": "234567_Paste_Your_Own_API_Key_Here_7654321",
+    "appId": "org.tinlizzie.codemirror",
+    "name": "abacf1",
+    "password": "123",
+    "box": "http://localhost:8888",
+    "tps": 2,
+    "eventRateLimit": 60,
+    "debug": "snapshot"
+  },
+  "realm": {"model": ["editorModel", "editorModelId"]},
+  "name": "CroquetMirror"
+})`],
+[`1`, `
+const editorModel = window.CodeMirrorModel.create({doc: "hi"});
+const editorModelId = editorModel.id;
+
+const containers = (() => {
+  const container1 = document.createElement("div");
+  container1.id = "container1";
+  document.body.querySelector(\`#\${container1.id}\`)?.remove();
+  document.body.appendChild(container1);
+
+  return [container1]
+})();
+
+
+const {CodeMirrorView} = import("./codemirror.js");
+
+const editorView = CodeMirrorView.create(Renkon, editorModelId);
+
+const updateDom = ((editorView) => {
+  editorView.editor.dom.id = "myeditor";
+  document.body.querySelector(\`#\${editorView.editor.dom.id}\`)?.remove();  
+  document.body.appendChild(editorView.editor.dom)
+})(editorView);
+`]]}
