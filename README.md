@@ -17,6 +17,8 @@ https://pad.krestianstvo.org/?q=myPad
 - Play & Stop buttons are shared too
 - Saving & Restoring of Strudel REPLs in pads is working
 
+> **Warning**: REPL scheduler syncing across browsers is not ready yet.
+
 <img style="border: 6px solid #eee" src="./doc/musical-pad/video1.gif"></img>
 
 ### Run & Develop
