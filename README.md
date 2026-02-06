@@ -14,3 +14,9 @@ Based on [Renkon-Pad & Croquet](https://github.com/yoshikiohshima/renkon-pad) an
 - Saving & Restoring of Strudel REPLs in pads is working
 
 <img style="border: 6px solid #eee" src="./doc/musical-pad/video1.gif"></img>
+
+## Run
+
+```node server.js```
+
+**Note**: For local development the [Croquet in a box](https://github.com/croquet/croquet) should be used.
