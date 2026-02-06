@@ -1,0 +1,110 @@
+{"padTitle":"About",
+"positions":{"map":{"__map":true,
+"values":[["1",{"height":562.1422392295293,
+"id":"1",
+"width":893.9118750436878,
+"x":263.8510573029248,
+"y":25.593379195261235}],["4",{"height":655.6099282468576,
+"id":"4",
+"width":729.7465110271484,
+"x":1203.9432661155472,
+"y":25.25815612399482}]]}},
+"titles":{"map":{"__map":true,
+"values":[["1",{"id":"1",
+"state":false,
+"title":"About"}],["4",{"id":"4",
+"state":false,
+"title":"Snipplets"}]]}},
+"version":3,
+"windowEnabled":{"map":{"__map":true,
+"values":[["1",{"enabled":true,
+"id":"1"}],["4",{"enabled":true,
+"id":"4"}]]}},
+"windowTypes":{"map":{"__map":true,
+"values":[["1","doc"],["4","doc"]]}},
+"windows":["1","4"],
+"zIndex":{"map":{"__map":true,
+"values":[["1",100],["4",101]]}}}
+{__codeMap: true, value: [[`1`, `# Musical Collaborative Pad
+
+Tiis as a live demo running open-source project aiming creating live collaborative environment running within Web Browser/NodeJS for creating musical collaborative instruments and performing with them online.  
+Based on [Renkon-Pad & Croquet](https://github.com/yoshikiohshima/renkon-pad) and [Strudel](https://codeberg.org/uzu/strudel) music live coding.  
+
+## Development status (WIP)
+
+- Strudel Lib is loaded inside Renkon-Pad and fully playable
+- Strudel's CodeMirror is modifed for using Croquetified CodeMirror from Renkon-Pad
+- All Strudel REPL's code windows are multiplayer by default suitable for live coding together
+- Play & Stop buttons are shared too
+- Saving & Restoring of Strudel REPLs in pads is working
+
+---
+
+## Strudel REPL
+
+You can copy & paste Strudel musical code examples from [Strudel docs](https://strudel.cc/workshop/getting-started/).  
+
+### Example:
+
+\`\`\`
+\$: n("0 [2 4] <3 5> [~ <4 1>]".add("<0 [0,2,4]>"))
+.scale("C5:minor")
+.sound("gm_xylophone")
+.room(.4).delay(.125)
+\$: note("c2 [eb3,g3]".add("<0 <1 -1>>"))
+.adsr("[.1 0]:.2:[1 0]")
+.sound("gm_acoustic_bass")
+.room(.5)
+\$: n("0 1 [2 3] 2").sound("jazz").jux(rev)
+\`\`\`
+`],
+[`4`, `# Strudel Snipplets
+
+---
+\`\`\`
+sound("bd hh sd oh")
+\`\`\`
+---
+\`\`\`
+note("<[c2 c3]*4 [bb1 bb2]*4 [f2 f3]*4 [eb2 eb3]*4>")
+.sound("sawtooth").lpf(800)
+\`\`\`
+---
+\`\`\`
+note("c2 <eb2 <g2 g1>>".fast(2))
+.sound("<sawtooth square triangle sine>")
+\`\`\`
+---
+\`\`\`
+s("supersaw").seg(16).lpf(tri.range(100, 5000).slow(2))
+\`\`\`
+---
+\`\`\`
+setcpm(60)
+n("<0 -3>, 2 4 <[6,8] [7,9]>")
+.scale("<C:major D:mixolydian>/4")
+.sound("piano")
+\`\`\`
+---
+\`\`\`
+n("[0,7] 4 [2,7] 4")
+.scale("C:<major minor>/2")
+.s("piano")
+\`\`\`
+---
+\`\`\`
+\$: note("c2, eb3 g3 [bb3 c4]").s("piano").slow(0.5).color('cyan')
+\$: note("c2, eb3 g3 [bb3 c4]").s("piano").slow(1).color('magenta')
+\$: note("c2, eb3 g3 [bb3 c4]").s("piano").slow(1.5).color('yellow')
+\`\`\`
+---
+\`\`\`
+chord("<C^7 A7b13 Dm7 G7>*2")
+.dict('ireal').layer(
+x=>x.struct("[~ x]*2").voicing()
+,
+x=>n("0*4").set(x).mode("root:g2").voicing()
+.s('sawtooth').cutoff("800:4:2")
+)
+\`\`\`
+---`]]}
