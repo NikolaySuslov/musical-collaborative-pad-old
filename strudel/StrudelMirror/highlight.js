@@ -1,14 +1,14 @@
-export function setMiniLocations() {return window.CodeMirror.state.StateEffect.define()};
-export function showMiniLocations() {return window.CodeMirror.state.StateEffect.define()};
+export const setMiniLocations = window.CodeMirror.state.StateEffect.define();
+export const showMiniLocations = window.CodeMirror.state.StateEffect.define();
+
 export const updateMiniLocations = (view, locations) => {
-  view.dispatch({ effects: setMiniLocations().of(locations) });
+  view.dispatch({ effects: setMiniLocations.of(locations) });
 };
 export const highlightMiniLocations = (view, atTime, haps) => {
-  view.dispatch({ effects: showMiniLocations().of({ atTime, haps }) });
+  view.dispatch({ effects: showMiniLocations.of({ atTime, haps }) });
 };
 
-function miniLocations() { 
-  return window.CodeMirror.state.StateField.define({
+const miniLocations = window.CodeMirror.state.StateField.define({
   create() {
     return window.CodeMirror.view.Decoration.none;
   },
@@ -18,7 +18,7 @@ function miniLocations() {
     }
 
     for (let e of tr.effects) {
-      if (e.is(setMiniLocations())) {
+      if (e.is(setMiniLocations)) {
         // this is called on eval, with the mini locations obtained from the transpiler
         // codemirror will automatically remap the marks when the document is edited
         // create a mark for each mini location, adding the range to the spec to find it later
@@ -41,15 +41,15 @@ function miniLocations() {
 
     return locations;
   },
-})};
+});
 
-function visibleMiniLocations() {return window.CodeMirror.state.StateField.define({
+const visibleMiniLocations = window.CodeMirror.state.StateField.define({
   create() {
     return { atTime: 0, haps: new Map() };
   },
   update(visible, tr) {
     for (let e of tr.effects) {
-      if (e.is(showMiniLocations())) {
+      if (e.is(showMiniLocations)) {
         // this is called every frame to show the locations that are currently active
         // we can NOT create new marks because the context.locations haven't changed since eval time
         // this is why we need to find a way to update the existing decorations, showing the ones that have an active range
@@ -71,12 +71,12 @@ function visibleMiniLocations() {return window.CodeMirror.state.StateField.defin
 
     return visible;
   },
-})};
+});
 
 // // Derive the set of decorations from the miniLocations and visibleLocations
-function miniLocationHighlights() { return window.CodeMirror.EditorView.decorations.compute([miniLocations(), visibleMiniLocations()], (state) => {
-  const iterator = state.field(miniLocations()).iter();
-  const { haps } = state.field(visibleMiniLocations());
+const miniLocationHighlights = window.CodeMirror.EditorView.decorations.compute([miniLocations, visibleMiniLocations], (state) => {
+  const iterator = state.field(miniLocations).iter();
+  const { haps } = state.field(visibleMiniLocations);
   const builder = new window.CodeMirror.state.RangeSetBuilder();
 
   while (iterator.value) {
@@ -122,15 +122,15 @@ function miniLocationHighlights() { return window.CodeMirror.EditorView.decorati
   }
 
   return builder.finish();
-})};
+});
 
-export function highlightExtension() {return [miniLocations(), visibleMiniLocations(), miniLocationHighlights()]};
+export const highlightExtension = [miniLocations, visibleMiniLocations, miniLocationHighlights];
 
-export function isPatternHighlightingEnabled (on, config) {
+export const isPatternHighlightingEnabled = (on, config) => {
   on &&
     config &&
     setTimeout(() => {
       updateMiniLocations(config.editor, config.miniLocations);
     }, 100);
-  return on ? window.CodeMirror.state.Prec.highest(highlightExtension()) : [];
+  return on ? window.CodeMirror.state.Prec.highest(highlightExtension) : [];
 };

@@ -1,86 +1,146 @@
-{"padTitle":"Croquet-Renkon-pad",
+{"padTitle":"Renkon-Musical-Pad",
 "positions":{"map":{"__map":true,
-"values":[["0",{"height":5395.935569674719,
+"values":[["0",{"height":5653.990801448327,
 "id":"0",
-"type":"resize",
-"width":846.9226824922912,
-"x":-1874.4644157380214,
-"y":114.62152857671515}],["2",{"height":1384.996947232564,
+"width":822.7672910068802,
+"x":-2056.6875407359244,
+"y":152.3923214222506}],["2",{"height":1384.7453325372853,
 "id":"2",
-"type":"resize",
-"width":898.7536951612279,
-"x":-5178.229163998213,
-"y":113.30799052853577}],["4",{"height":8646.599624601682,
+"width":853.7266463585069,
+"x":-7505.722858609955,
+"y":170.10927727887955}],["4",{"height":8937.581724868889,
 "id":"4",
-"type":"resize",
-"width":1862.4276500381839,
-"x":4300.2618591899545,
-"y":124.14309106010592}],["8",{"height":3713.836947558356,
+"width":1633.1015245180788,
+"x":9226.2127280215,
+"y":151.6731674050339}],["8",{"height":3652.9904166809183,
 "id":"8",
-"type":"resize",
-"width":846.8519048295801,
-"x":-3141.373850438804,
-"y":115.83863846374467}],["10",{"height":357.40107992762125,
+"width":752.5265951306149,
+"x":-3768.8549944407373,
+"y":162.74088184915206}],["10",{"height":601.7173331699967,
 "id":"10",
-"type":"move",
-"width":616.0946360001138,
-"x":-5195.647383209227,
-"y":-333.59561064464594}],["14",{"height":2872.4448890458675,
+"width":725.6091976294842,
+"x":-7498.713611331092,
+"y":-522.4613157787267}],["14",{"height":3460.439896475563,
 "id":"14",
-"type":"resize",
-"width":831.8992401236378,
-"x":-4123.330508161269,
-"y":116.90867745550928}],["16",{"height":2915.9198423892362,
+"width":699.9270318976526,
+"x":-5647.396933247247,
+"y":165.6194837569174}],["16",{"height":2915.9198423892362,
 "id":"16",
-"type":"move",
 "width":763.0884327402407,
-"x":-3120.586069181566,
-"y":3975.330750119018}],["18",{"height":4399.724965804616,
+"x":-3772.167257114569,
+"y":3908.728896121767}],["18",{"height":4333.932724911407,
 "id":"18",
-"type":"move",
-"width":922.9187780638681,
-"x":-61.21986103933419,
-"y":4389.672574988393}],["24",{"height":2558.6994626918395,
+"width":888.4478502148212,
+"x":1604.3270139606657,
+"y":4410.649137488393}],["24",{"height":2558.6994626918395,
 "id":"24",
-"type":"move",
 "width":739.2688656962409,
-"x":2203.8342248341337,
-"y":124.89928974372444}],["25",{"height":3061.465179623042,
+"x":5192.0901287411625,
+"y":153.23622200307503}],["25",{"height":3167.5540276899956,
 "id":"25",
-"type":"resize",
-"width":770.1127022065618,
-"x":2198.6072570198103,
-"y":2753.3447050640784}],["26",{"height":4892.327415416062,
+"width":728.9915280920748,
+"x":5186.73225701981,
+"y":2830.4931425640784}],["26",{"height":4892.327415416062,
 "id":"26",
-"type":"resize",
 "width":851.32232821802,
-"x":1042.9492775570598,
-"y":126.29650565939713}],["27",{"height":4147.830893817172,
+"x":3446.156384599422,
+"y":156.2909297451856}],["27",{"height":4076.2270059725656,
 "id":"27",
-"type":"resize",
-"width":949.9557370066167,
-"x":-56.689174552520825,
-"y":115.72276358168935}],["28",{"height":5066.90047537631,
+"width":784.7910896421135,
+"x":1607.0445248513663,
+"y":155.3053442530741}],["28",{"height":4732.050661125166,
 "id":"28",
-"type":"resize",
-"width":746.5529623442486,
-"x":-926.2159510292836,
-"y":108.24020115880211}],["29",{"height":2166.4833719799344,
+"width":880.6695250293437,
+"x":-285.2855133531855,
+"y":148.8715078389946}],["29",{"height":2153.912480907299,
 "id":"29",
-"type":"resize",
-"width":992.392383446219,
-"x":-5171.916960187742,
-"y":1742.1432070785786}],["88",{"height":1339.3514084153062,
+"width":860.5724852794904,
+"x":-7511.728773633648,
+"y":1694.513774786595}],["88",{"height":1480.7946125867425,
 "id":"88",
-"type":"resize",
-"width":790.4244479381388,
-"x":2195.000919115392,
-"y":5922.326971846143}],["89",{"height":1436.4184955864093,
+"width":734.0176315252023,
+"x":5193.169936123532,
+"y":6107.024769750996}],["89",{"height":1544.9052541648782,
 "id":"89",
-"type":"resize",
-"width":946.8236481392878,
-"x":3163.8266626451177,
-"y":120.93298134222152}]]}},
+"width":974.9768729616518,
+"x":6998.009519431162,
+"y":152.8757478780987}],["90",{"height":395.11443821079865,
+"id":"90",
+"width":785.0824912605583,
+"x":-8350.534856693012,
+"y":-523.4098922384826}],["91",{"height":399.78479399032983,
+"id":"91",
+"width":786.4592378715543,
+"x":-8343.60063445745,
+"y":170.5477662620383}],["92",{"height":400,
+"id":"92",
+"width":800,
+"x":-8351.15655914728,
+"y":1693.2403951488632}],["93",{"height":400,
+"id":"93",
+"width":800,
+"x":-6506.08449182103,
+"y":164.91758073104134}],["94",{"height":400,
+"id":"94",
+"width":800,
+"x":-4601.874090924307,
+"y":162.00688272439712}],["95",{"height":400,
+"id":"95",
+"width":800,
+"x":-4609.557028426976,
+"y":3910.8755456865806}],["96",{"height":654.5675027366065,
+"id":"96",
+"width":759.9280880101138,
+"x":-2874.4275106309483,
+"y":152.94656526595696}],["97",{"height":425.16384641060284,
+"id":"97",
+"width":799.8133245815237,
+"x":-1142.622157820525,
+"y":152.79002858339436}],["98",{"height":400,
+"id":"98",
+"width":800,
+"x":735.8947260092311,
+"y":155.49785569117438}],["99",{"height":400,
+"id":"99",
+"width":800,
+"x":744.8483840607839,
+"y":4409.83231055079}],["100",{"height":400,
+"id":"100",
+"width":800,
+"x":2594.852375193863,
+"y":155.418241982143}],["101",{"height":400,
+"id":"101",
+"width":800,
+"x":4350.01526721649,
+"y":156.91844645652895}],["102",{"height":400,
+"id":"102",
+"width":800,
+"x":4364.274393601232,
+"y":2826.9091048566975}],["103",{"height":400,
+"id":"103",
+"width":800,
+"x":4366.896395773581,
+"y":6112.6621492460545}],["104",{"height":447.9135641802801,
+"id":"104",
+"width":844.7603993464369,
+"x":6025.935436804985,
+"y":152.39563790092782}],["105",{"height":400,
+"id":"105",
+"width":800,
+"x":8284.815013324254,
+"y":163.09341064898467}],["109",{"height":2503.8769952722228,
+"id":"109",
+"width":925.9871916582313,
+"x":11973.091388656992,
+"y":163.56577001224701}],["110",{"height":457.53403555435773,
+"id":"110",
+"width":735.8542386563414,
+"x":12963.431967429005,
+"y":165.80997618540238}],["121",{"height":400,
+"id":"121",
+"width":800,
+"x":11064.390293610266,
+"y":165.01039156533295}]]}},
 "titles":{"map":{"__map":true,
 "values":[["0",{"id":"0",
 "state":false,
@@ -114,14 +174,52 @@
 "state":false,
 "title":"Load Model"}],["89",{"id":"89",
 "state":false,
-"title":"New Doc Window"}]]}},
+"title":"Doc Window"}],["90",{"id":"90",
+"state":false,
+"title":"Croquet"}],["91",{"id":"91",
+"state":false,
+"title":"Initialization"}],["92",{"id":"92",
+"state":false,
+"title":"Runner"}],["93",{"id":"93",
+"state":false,
+"title":"View"}],["94",{"id":"94",
+"state":false,
+"title":"CodeMirror Editor"}],["95",{"id":"95",
+"state":false,
+"title":"HoverPlugin"}],["96",{"id":"96",
+"state":false,
+"title":"Data Structure"}],["97",{"id":"97",
+"state":false,
+"title":"User Interaction"}],["98",{"id":"98",
+"state":false,
+"title":"Pointer Handling"}],["99",{"id":"99",
+"state":false,
+"title":"Search"}],["100",{"id":"100",
+"state":false,
+"title":"Rendering"}],["101",{"id":"101",
+"state":false,
+"title":"Graph Visualization"}],["102",{"id":"102",
+"state":false,
+"title":"Save and Load"}],["103",{"id":"103",
+"state":false,
+"title":"Load Model"}],["104",{"id":"104",
+"state":false,
+"title":"Doc Window"}],["105",{"id":"105",
+"state":false,
+"title":"CSS"}],["109",{"id":"109",
+"state":false,
+"title":"Strudel Window"}],["110",{"id":"110",
+"state":false,
+"title":"Strudel Toolbar"}],["121",{"id":"121",
+"state":false,
+"title":"untitled"}]]}},
 "version":3,
 "windowEnabled":{"map":{"__map":true,
 "values":[["0",{"enabled":true,
 "id":"0"}],["2",{"enabled":true,
 "id":"2"}],["4",{"enabled":true,
 "id":"4"}],["8",{"enabled":true,
-"id":"8"}],["10",{"enabled":false,
+"id":"8"}],["10",{"enabled":true,
 "id":"10"}],["14",{"enabled":true,
 "id":"14"}],["16",{"enabled":true,
 "id":"16"}],["18",{"enabled":true,
@@ -133,17 +231,41 @@
 "id":"28"}],["29",{"enabled":true,
 "id":"29"}],["88",{"enabled":true,
 "id":"88"}],["89",{"enabled":true,
-"id":"89"}]]}},
+"id":"89"}],["90",{"enabled":true,
+"id":"90"}],["91",{"enabled":true,
+"id":"91"}],["92",{"enabled":true,
+"id":"92"}],["93",{"enabled":true,
+"id":"93"}],["94",{"enabled":true,
+"id":"94"}],["95",{"enabled":true,
+"id":"95"}],["96",{"enabled":true,
+"id":"96"}],["97",{"enabled":true,
+"id":"97"}],["98",{"enabled":true,
+"id":"98"}],["99",{"enabled":true,
+"id":"99"}],["100",{"enabled":true,
+"id":"100"}],["101",{"enabled":true,
+"id":"101"}],["102",{"enabled":true,
+"id":"102"}],["103",{"enabled":true,
+"id":"103"}],["104",{"enabled":true,
+"id":"104"}],["105",{"enabled":true,
+"id":"105"}],["109",{"enabled":true,
+"id":"109"}],["110",{"enabled":true,
+"id":"110"}],["121",{"enabled":true,
+"id":"121"}]]}},
 "windowTypes":{"map":{"__map":true,
-"values":[["0","code"],["2","code"],["4","code"],["8","code"],["10","code"],["14","code"],["16","code"],["18","code"],["24","code"],["25","code"],["26","code"],["27","code"],["28","code"],["29","code"],["88","code"],["89","code"]]}},
-"windows":["0","2","4","8","10","14","16","18","24","25","26","27","28","29","88","89"],
+"values":[["0","code"],["2","code"],["4","code"],["8","code"],["10","code"],["14","code"],["16","code"],["18","code"],["24","code"],["25","code"],["26","code"],["27","code"],["28","code"],["29","code"],["88","code"],["89","code"],["90","doc"],["91","doc"],["92","doc"],["93","doc"],["94","doc"],["95","doc"],["96","doc"],["97","doc"],["98","doc"],["99","doc"],["100","doc"],["101","doc"],["102","doc"],["103","doc"],["104","doc"],["105","doc"],["109","code"],["110","code"],["121","doc"]]}},
+"windows":["0","2","4","8","10","14","16","18","24","25","26","27","28","29","88","89","90","91","92","93","94","95","96","97","98","99","100","101","102","103","104","105","109","110","121"],
 "zIndex":{"map":{"__map":true,
-"values":[["0",102],["2",115],["4",118],["8",106],["10",121],["14",112],["16",108],["18",113],["24",111],["25",107],["26",105],["27",109],["28",114],["29",120],["88",100],["89",103]]}}}
+"values":[["0",114],["2",120],["4",124],["8",108],["10",122],["14",137],["16",126],["18",130],["24",105],["25",133],["26",115],["27",103],["28",113],["29",123],["88",121],["89",135],["90",134],["91",102],["92",112],["93",125],["94",118],["95",127],["96",106],["97",128],["98",129],["99",131],["100",100],["101",132],["102",109],["103",107],["104",139],["105",136],["109",140],["110",141],["121",111]]}}}
 {__codeMap: true, value: [[`0`, `const viewExit = Events.receiver({queued: true});
 const viewJoin = Events.receiver({queued: true});
 
-const newWindowRequest = {...newWindowRequestFromView, id: \`\${newId}\`};
-// const xxx = console.log(newWindowRequest);
+const newWindowRequest = ((newWindowRequestFromView, newId) => {
+  if (newWindowRequestFromView.type === "initial") {
+    if (newId !== 1) {return;}
+    return {...newWindowRequestFromView, id: \`\${newId}\`, type: "code"};
+  }
+  return {...newWindowRequestFromView, id: \`\${newId}\`};
+})(newWindowRequestFromView, newId);
 
 const newId = Behaviors.select(
   0,
@@ -191,8 +313,8 @@ const positions = Behaviors.select(
     const padView = request.padView;
     const length = prev.map.size;
     const id = request.id;
-    const newX = (length * 5 + 40) / padView.scale - padView.x;
-    const newY = (length * 5 + 45) / padView.scale - padView.y;
+    const newX = (Math.min(length, 10) * 5 + 40) / padView.scale - padView.x;
+    const newY = (Math.min(length, 10) * 5 + 45) / padView.scale - padView.y;
 
     const newWindow = (id, type) => {
       return {
@@ -211,8 +333,9 @@ const positions = Behaviors.select(
     return {map: prev.map};
   },
   moveOrResize, (prev, command) => {
-    const v = {...prev.map.get(command.id), ...command};
-    prev.map.set(command.id, v);
+    const newRect = {...prev.map.get(command.id), ...command};
+    delete newRect.type;
+    prev.map.set(command.id, newRect);
     return {map: prev.map};
   }
 );
@@ -230,15 +353,15 @@ const padViews = Behaviors.select(
   padViewChange, (prev, view) => {
     let {x, y, scale, viewId, force} = view;
     if (!force) {
-      if (scale < 0.1) {
+      if (scale < 0.05) {
         x = prev.x;
         y = prev.y;
-        scale = 0.1;
+        scale = 0.05;
       }
-      if (scale > 20) {
+      if (scale > 30) {
         x = prev.x;
         y = prev.y;
-        scale = 20;
+        scale = 30;
       }
     }
     let result = {...prev.map.get(viewId), ...{x, y, scale}};
@@ -359,7 +482,10 @@ const windowContentsModel = Behaviors.select(
         elem = {type};
       } else if (type === "doc") {
         elem = {type, doc: window.CodeMirrorModel.create({doc: loaded.code.get(id), creator: "newDocPane", id})};
-      } else if (type === "code") {
+      } else if (type === "strudel") {
+        elem = {type, doc: window.CodeMirrorModel.create({doc: loaded.code.get(id), creator: "newStrudelPane", id})};
+      } 
+      else if (type === "code") {
         elem = {type, doc: window.CodeMirrorModel.create({doc: loaded.code.get(id), creator: "newEditor", id})};
       } else {
         elem = {type, doc: loaded.code.get(id)};
@@ -374,9 +500,11 @@ const windowContentsModel = Behaviors.select(
     let elem;
     if (type === "runner") {
       elem = {type};
-    } else if (type === "doc") {
+    } else if (type === "doc") {  
       elem = {type, doc: window.CodeMirrorModel.create({id, creator: "newDocPane", doc: \`# Hello\`})};
-    } else if (type === "code") {
+    } else if (type === "strudel") {  
+      elem = {type, doc: window.CodeMirrorModel.create({id, creator: "newStrudelPane", doc: \`note(\\"c3 eb3 g3\\")\`})}}
+    else if (type === "code") {
       elem = {type, doc: window.CodeMirrorModel.create({id, creator: "newEditor", doc: \`console.log("hello")\`})}
     }
     prev.map.set(id, elem);
@@ -388,7 +516,7 @@ const windowContentsModel = Behaviors.select(
   },
   resetRequest, (prev, resetRequest) => {
     const id = resetRequest.id;
-    prev.map.set(id, {type: "runner"});
+    if (prev.map.get(id)?.type !== "runner") {console.log("inconsistent"); return prev;}
     return {map: prev.map};
   }
 );
@@ -432,7 +560,13 @@ const docSeparators = Behaviors.select(
     prev.map.set(id, {docWidth, editorWidth, editorRight});
     return {map: prev.map};
   }
-)`],
+)
+
+const runRequest = Behaviors.keep(runRequestFromView);
+// this is a workaround to make the view to see the value
+const resetRequest = Behaviors.receiver();
+// const xxx = console.log("runRequest", runRequest);
+`],
 [`2`, `const {h, html, render} = import("./preact.standalone.module.js");
 
 const renkon = (() => {
@@ -444,6 +578,7 @@ const renkon = (() => {
   <button class="menuButton" id="addCodeButton">code</button>
   <button class="menuButton" id="addDocButton">doc</button>
   <button class="menuButton" id="addRunnerButton">runner</button>
+  <button class="strudelButton" id="addStrudelButton">Strudel REPL</button>
   <div class="spacer"></div>
   <button class="menuButton" id="searchButton">search</button>
   <button class="menuButton" id="showGraph">show graph</button>
@@ -610,6 +745,18 @@ html, body {
   border: 2px solid #555;
 }
 
+.strudelButton {
+  font-family: 'OpenSans-SemiBold';
+  color: white;
+  margin-left: 4px;
+  margin-right: 4px;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 2px solid #555;
+  background-color: grey;
+  margin-left: 10px;
+}
+
 .runnerIframe {
   width: 100%;
   height: 100%;
@@ -768,8 +915,7 @@ html, body {
 }
 
 .windowHolder {
-  height: calc(100% - 24px);
-  box-sizing: border
+  height: calc(100% - 23px);
 }
 
 .windowHolder[blurred="true"] {
@@ -898,6 +1044,8 @@ html, body {
   overflow: scroll;
   scroll-behavior: smooth;
   font-size: 13px;
+  border: 1px solid black;
+  box-sizing: border-box;
   background-color: #fff;
 }
 
@@ -1142,50 +1290,65 @@ const newEditor = (id, docModel) => {
 };
 `],
 [`10`, `({
-  "appParameters": {
+  parameters: {
+    appParameters: {
     "box": "http://localhost:8888",
     "apiKey": "none",
-    "appId": "org.krestianstvo.pad",
+    "appId": "live.musical.pad",
     "name": "abc",
     "debug": ["reflector"],
     "password": "abc",
     "tps": 2,
     "eventRateLimit": 60
+    },
+    "realm": {"model": [
+      "windows", "windowTypes", "positions", "titles", "windowEnabled",
+      "zIndex", "windowContentsModel", "padTitle", "docSeparators", "initialData",
+      "newId", "padViews", "newWindowRequest", "padTitle", "viewJoin",
+      "viewExit", "xxx", "loadReceiver", "loadHandler", "loadFromFile", "loadFromProgram", "runRequest", "resetRequest", "strActions", "strEvents", "avatars"]},
+    "name": "pad"
   },
-  "realm": {"model": [
-    "windows", "windowTypes", "positions", "titles", "windowEnabled",
-    "zIndex", "windowContentsModel", "padTitle", "docSeparators", "initialData",
-    "newId", "padViews", "newWindowRequest", "padTitle", "viewJoin",
-    "viewExit", "xxx", "loadReceiver", "loadHandler"]},
-  "name": "pad"
+  methods: {
+    renkonInit() {
+      //this.programState.registerEvent("initialWindow", "code");
+    },
+    savePersistentData() {
+      console.log("save");
+    },
+    loadPersistentData() {
+      console.log("load");
+    }
+  }
 })`],
-[`14`, `// {type: "code"|"doc"|"runner"}
+[`14`, `// {type: "code"|"doc"|"runner"|"strudel"}
 const newWindowRequestFromView = ((viewId, type, padViews) => {
   return {viewId, type, padView: padViews.map.get(viewId) || padView};
-})(viewId, Events.or(addCode, addRunner, addDoc), padViews, padView);
+})(viewId, Events.or(addCode, addRunner, addDoc, addStrudel, initialWindowFromView), padViews, padView);
 
 const viewId = Renkon.app?.viewId || "local";
+const isLocal = viewId === "local";
+
+const initialWindowFromView = isLocal ? "initial" : undefined;
 
 const padView = Behaviors.select(
   {x: 0, y: 0, scale: 1},
   padViewChange, (prev, view) => {
     let {x, y, scale, force} = view;
     if (!force) {
-      if (scale < 0.1) {
+      if (scale < 0.05) {
         x = prev.x;
         y = prev.y;
-        scale = 0.1;
+        scale = 0.05;
       }
-      if (scale > 20) {
+      if (scale > 30) {
         x = prev.x;
         y = prev.y;
-        scale = 20;
+        scale = 30;
       }
     }
     return {...prev, ...{x, y, scale}};
   }
 );
-
 
 const modifierState = Behaviors.select(
   {shiftKey: false, ctrlKey: false, metaKey: false, scrollDirection: null},
@@ -1284,10 +1447,21 @@ const pinnedPositions = Behaviors.select(
 
 const windowContents = Behaviors.select(
   {map: new Map()},
+  remove, (prev, remove) => {
+    const {type, doc} = windowContentsModel.map.get(remove.id);
+    if (type === "strudel") {
+    const el = prev.map.get(remove.id);
+    el.repl.stop();
+    }
+  },
+  resetRequest, (prev, reset) => {
+    prev.map.set(reset.id, newRunner(reset.id));
+  },
   windowContentsModel, (prev, windowContentsModel) => {
     if (windowContentsModel.loaded) {
       prev.map.clear();
     }
+
     const prevKeys = [...prev.map.keys()];
     const newKeys = [...windowContentsModel.map.keys()];
     const olds = prevKeys.filter((e) => !newKeys.includes(e));
@@ -1299,20 +1473,46 @@ const windowContents = Behaviors.select(
       if (type === "runner") {
         elem = newRunner(id);
       } else if (type === "doc") {
-        elem = newDocPane(id, doc);
-      } else {
+        if (isLocal) {
+          elem = doc;
+        } else {
+          elem = newDocPane(id, doc)
+        }
+      } else if (type === "strudel") {
+        if (isLocal) {
+          elem = doc;
+        } else {
+            elem = newStrudelPane(id, doc)
+        }
+      }
+      else {
         elem = newEditor(id, doc);
       }
       prev.map.set(id, elem);
     });
     return {map: prev.map};
-  },
-  resetRequest, (prev, resetRequest) => {
-    const id = resetRequest.id;
-    prev.map.set(id, newRunner(id));
-    return {map: prev.map};
   }
-);`],
+);
+
+const initialHome = (() => Events.send(homeUponLoad, "home"))(windowContents, loadHandler);
+ 
+const runHandler = ((runRequest, windowContents, windowEnabled, titles) => {
+  const id = runRequest.id;
+  const iframe = windowContents.map.get(id);
+  const enabled = [...windowContents.map]
+    .filter(([id, obj]) => obj.state && windowEnabled.map.get(id)?.enabled !== false);
+  const code = enabled
+    .filter(([id, obj]) => titles.map.get(id).title !== "Croquet")
+    .map(([_id, editor]) => editor.state.doc.toString());
+  const croquet = enabled.find(([id, obj]) => {
+    return titles.map.get(id).title === "Croquet"})?.[1].state.doc.toString();
+  if (!croquet && !isLocal) {
+    console.log("No Croquet spec found");
+  }
+  if (!iframe?.dom?.contentWindow) {/* console.log("iframe is not there yet"); */ return}
+  iframe.dom.contentWindow.postMessage({code: code, croquet, path: id});
+})(Events.or(runRequest, doReset), windowContents, windowEnabled, titles);
+`],
 [`16`, `function hoverTooltip(source, options = {}) {
   let setHover = window.CodeMirror.state.StateEffect.define();
   let hoverState = window.CodeMirror.state.StateField.define({
@@ -1716,7 +1916,7 @@ const searchCSS = \`
   const edges = new Map(); // blockId -> {edgesOut: [{id, dest}], edgesIn: [{id, origin}], exports: [id]}
 
   const code = [...windowContents.map].filter(
-    ([id, editor]) => editor.state && windowEnabled.map.get(id)?.enabled)
+    ([id, editor]) => editor.state && windowEnabled.map.get(id)?.enabled !== false)
     .map(([id, editor]) => ({blockId: id, code: editor.state.doc.toString()}));
   try {
     code.forEach(info => {
@@ -1840,15 +2040,17 @@ const graph = ((positions, padView, analyzed, hoveredB, showGraph) => {
 
 const _graphRender = render(graph, document.querySelector("#overlay"));
 `],
-[`25`, `const loadRequest = Events.receiver();
-
-const saveData = (windows, positions, zIndex, titles, windowContents, windowTypes, padTitle, windowEnabled) => {
+[`25`, `const saveData = (windows, positions, zIndex, titles, windowContents, windowTypes, padTitle, windowEnabled) => {
   const code = new Map(
     [...windowContents.map].map(([id, content]) => {
       if (content.state) {
         return [id, content.state.doc.toString()];
       } else if (content.editor) {
-        return [id, content.editor.editor.state.doc.toString()];
+        let state = content.editor.editor?.state;
+        if (!state) {
+          state = content.editor.state;
+        }
+        return [id, state.doc.toString()];
       } else if (content.doc) {
         return [id, content.doc];
       } else {
@@ -1883,11 +2085,9 @@ const _saver2 = ((windows, positions, zIndex, titles, windowContents, windowType
 })(windows, positions, zIndex, titles, windowContents, windowTypes, padTitle, windowEnabled, save);
 
 const loader = (() => {
-
   const input = document.createElement("div");
   input.innerHTML = \`<input id="imageinput" type="file" accept=".json,.renkon">\`;
   const imageInput = input.firstChild;
-  const key = Math.random();
 
   imageInput.onchange = () => {
     const file = imageInput.files[0];
@@ -1898,29 +2098,7 @@ const loader = (() => {
       reader.readAsArrayBuffer(file);
     }).then(async (data) => {
       const result = new TextDecoder("utf-8").decode(data);
-      const array = new TextEncoder().encode(result);
-      if (!Renkon.app) {
-        Events.send(loadAtOnce, {key: 1, array: [array], done: true});
-        return;
-      }
-      
-      let ind = 0;
-
-      Events.send(loadStart, key);
-      const throttle = array.length > 80000;
-
-      while (ind < array.length) {
-        let buf = array.slice(ind, ind + 2880);
-        Events.send(loadOne, {key, array: buf});
-        ind += 2880;
-        if (throttle) {
-          await new Promise((resolve) => {
-            setTimeout(resolve, 16);
-          });
-        }
-      }
-      Events.send(loadDone, key);
-      imageInput.remove();
+    loadData(result, imageInput);
     });
     imageInput.value = "";
   };
@@ -1928,6 +2106,33 @@ const loader = (() => {
   document.body.appendChild(imageInput);
   imageInput.click();
 })(load);
+
+const loadData = async (data, maybeImageInput) => {
+  const array = new TextEncoder().encode(data);
+  if (isLocal) {
+    Events.send(loadAtOnce, {key: 1, array: [array], done: true});
+    return;
+  }
+      
+  let ind = 0;
+  const key = Math.random();
+
+  Events.send(loadEvent, {key, type: "loadStart"});
+  const throttle = array.length > 80000;
+
+  while (ind < array.length) {
+    let buf = array.slice(ind, ind + 2880);
+    Events.send(loadEvent, {key, type: "loadOne", array: buf});
+    ind += 2880;
+    if (throttle) {
+      await new Promise((resolve) => {
+        setTimeout(resolve, 16);
+      });
+    }
+  }
+  if (maybeImageInput) maybeImageInput.remove();
+  Events.send(loadEvent, {key, type: "loadDone"});
+}
 
 const nameFromUrl = (() => {
   const maybeUrl = new URL(window.location).searchParams.get("file");
@@ -1937,12 +2142,9 @@ const nameFromUrl = (() => {
   return undefined;
 })();
 
-/*
 const _loadFromUrl = fetch(nameFromUrl).then((resp) => resp.text()).then((result) => {
   loadData(result, null);
 });
-
-*/
 
 const stringifyInner = (node, seen) => {
   if (node === undefined) return undefined;
@@ -2024,11 +2226,13 @@ const dismissDelayedButton = Events.receiver();
 const playLeave = Events.receiver();
 const playUp = Events.receiver();
 
+const runRequestFromView = Events.receiver();
+
 const playClickHandler = (evt, delayed) => {
   if (delayed) {
     return;
   }
-  Events.send(runRequest, {id: \`\${Number.parseInt(evt.target.id)}\`});
+  Events.send(runRequestFromView, {id: \`\${Number.parseInt(evt.target.id)}\`});
 }
 
 const playDownHandler = (evt) => {
@@ -2503,7 +2707,7 @@ const home = Events.listener(renkon.querySelector("#homeButton"), "click", () =>
 const zoomIn = Events.listener(renkon.querySelector("#zoomInButton"), "click", () => "zoomIn");
 const zoomOut = Events.listener(renkon.querySelector("#zoomOutButton"), "click", () => "zoomOut");
 
-const homeUponLoad = ((_positions, _loadRequest) => "home")(positions, loadRequest);
+const homeUponLoad = Events.receiver();
 
 const navigationAction = Events.or(home, zoomIn, zoomOut, homeUponLoad);
 
@@ -2685,23 +2889,6 @@ const showGraph = Behaviors.collect(
   document.querySelector("#showGraph").textContent = str;
 })(showGraph);
 
-const _onRun = ((runRequest, windowContents, windowEnabled, titles) => {
-  const id = runRequest.id;
-  const iframe = windowContents.map.get(id);
-  const enabled = [...windowContents.map]
-    .filter(([id, obj]) => obj.state && windowEnabled.map.get(id).enabled);
-  const code = enabled
-    .filter(([id, obj]) => titles.map.get(id).title !== "Croquet")
-    .map(([_id, editor]) => editor.state.doc.toString());
-  const croquet = enabled.find(([id, obj]) => {
-    return titles.map.get(id).title === "Croquet"})?.[1].state.doc.toString();
-  if (!croquet) {
-    console.log("No Croquet spec found");
-  }
-  iframe.dom.contentWindow.postMessage({code: code, croquet, path: id});
-})(runRequest, windowContents, windowEnabled, titles);
-
-
 const resetHandler = Events.select(
   {},
   resetRequest, (prev, reset) => {
@@ -2727,8 +2914,6 @@ const resetHandler = Events.select(
 
 const doReset = Events.receiver();
 
-const _onReset = Events.send(runRequest, doReset);
-
 const _onInspect = ((inspectRequest) => {
   const id = inspectRequest.id;
   const iframe = windowContents.map.get(id);
@@ -2739,8 +2924,7 @@ const remove = Events.receiver();
 const titleEditChange = Events.receiver();
 const enabledChange = Events.receiver();
 const pinRequest = Events.receiver();
-const runRequest = Events.receiver();
-const resetRequest = Events.receiver();
+
 const inspectRequest = Events.receiver();
 
 const _goTo = ((padView, positions, dblClick, viewId) => {
@@ -2796,7 +2980,9 @@ const _goTo = ((padView, positions, dblClick, viewId) => {
     <script type="module">
       import {ProgramState, globals} from "./renkon-core.js";
       import {newInspector} from "./renkon-inspector.js";
-      import {start, startNoCroquet, parse, extract, splitStrs, toFunction, trimParenthesis} from "./croquet.js";
+      import {startWithCodeMirrorWithCroquet, startWithCodeMirrorNoCroquet,
+              parse, splitStrs, toFunction, parseCroquet} from "./loader.js";
+
       window.RenkonWeb = {globals};
       let prevSession;
       let prevView;
@@ -2805,14 +2991,15 @@ const _goTo = ((padView, positions, dblClick, viewId) => {
         let promise;
         let croquet;
         if (evt.data.croquet) {
-          croquet = JSON.parse(trimParenthesis(evt.data.croquet.trim()));
+          croquet = parseCroquet(evt.data.croquet);
         }
         if (evt.data && Array.isArray(evt.data.code)) {
-          if (!croquet?.appParameters?.name) {
-              startNoCroquet({code: evt.data.code.map((c, i) => ([(i).toString(), c])), ProgramState});
+          if (!croquet?.parameters?.appParameters?.name) {
+              startWithCodeMirrorNoCroquet({code: evt.data.code.map((c, i) => ([(i).toString(), c])), ProgramState});
           } else {
             if (!prevView) {
-              const obj = await start({code: evt.data.code.map((c, i) => ([(i).toString(), c])), ProgramState, croquet, options: {}});
+              const obj = await startWithCodeMirrorWithCroquet({
+                code: evt.data.code.map((c, i) => ([(i).toString(), c])), ProgramState, croquet, options: {}});
               const {CodeMirror, CodeMirrorModel, CodeMirrorView, session} = obj;
               prevSession = session;
               prevView = session.view;
@@ -2826,8 +3013,8 @@ const _goTo = ((padView, positions, dblClick, viewId) => {
         }
 
         if (evt.data && typeof evt.data.inspector === "boolean") {
-          const ps = session?.view?.programState || window.thisProgramState;
-          if (session?.view?.thisProgramState) {
+          const ps = prevSession?.view?.programState || window.programState;
+          if (ps) {
             if (document.body.querySelector(".dock")) {
               document.body.querySelector(".dock").remove();
               return;
@@ -2839,9 +3026,9 @@ const _goTo = ((padView, positions, dblClick, viewId) => {
 
             dock.appendChild(dom);
             document.body.appendChild(dock);
-            const result = thisProgramState.order.map((id) => [
-                id + " (" + thisProgramState.types.get(id) + ")",
-                thisProgramState.resolved.get(id)]);
+            const result = ps.order.map((id) => [
+                id + " (" + ps.types.get(id) + ")",
+                ps.resolved.get(id)]);
             dom.addEventListener('contextmenu', event => {
               event.preventDefault(); event.stopPropagation();}, {capture: true});
             dom.addEventListener('pointerup', event => {
@@ -2860,7 +3047,6 @@ const _goTo = ((padView, positions, dblClick, viewId) => {
                 const match = /(.*)\\\\\\\\W(Behavior|Event)\\\\\\\\W/.exec(text);
                 if (!match) {return;}
                 const keyName = match[1].trim();
-                console.log(window.thisProgramState.resolved.get(keyName)?.value);
               }
             });
             newInspector(Object.fromEntries(result), dom);
@@ -2878,34 +3064,38 @@ const _goTo = ((padView, positions, dblClick, viewId) => {
   return {dom: runnerIframe};
 };
 `],
-[`88`, `const loadStart = Events.receiver();
-const loadOne = Events.receiver({queued: true}); //{queued: true}
-const loadDone = Events.receiver();
-const loadAtOnce = Events.receiver();
+[`88`, `const loadAtOnce = Events.receiver();
+const loadEvent = Events.receiver({queued: true});
 
 const loadReceiver = Behaviors.select(
   undefined, // {key:number, array}
-  loadStart, (prev, start) => {
-    return {key: start, array: []};
-  },
-  loadOne, (prev, one) => {
-    if (prev?.key !== one.at(-1).key) {
-      return undefined;
+  loadEvent, (prev, events) => {
+    let result = prev;
+    for (const event of events) {
+      if (event.type === "loadStart") {
+        result = {key: event.key, array: []};
+      } else if (event.type === "loadOne") {
+        if (result?.key !== event.key) {
+          result = undefined;
+          break;
+        }
+        result = {key: result.key, array: [...result.array, event.array]}
+      } else if (event.type === "loadDone") {
+        if (result?.key !== event.key ) {
+          result = undefined;
+          break;
+        }
+        result = {key: result.key, array: result.array, done: true}
+      }
     }
-    return {key: prev.key, array: [...prev.array, one.map(el=>{return new Uint8Array([...el.array])}).flat()]};
-  },
-  loadDone, (prev, done) => {
-    if (prev?.key !== done) {
-      return undefined;
-    }
-    return {key: prev.key, array: prev.array[0], done: true};
+    return result;
   },
   loadAtOnce, (_prev, value) => {
     return value;
   }
 );
 
-const loadHandler = ((loadReceiver) => {
+const loadFromFile = ((loadReceiver) => {
   if (!loadReceiver?.done) {return;}
 
   const array = loadReceiver.array;
@@ -2949,7 +3139,10 @@ const loadHandler = ((loadReceiver) => {
   }
   console.log("unknown type of data");
   return;
-})(loadReceiver);`],
+})(Events.change(loadReceiver));
+
+const loadHandler = Events.or(loadFromFile, loadFromProgram);
+const loadFromProgram = Events.receiver();`],
 [`89`, `const newDocPane = (id, docModel) => {
   const mirror = window.CodeMirror;
   const container = document.createElement("div");
@@ -2985,6 +3178,7 @@ const separatorMove = Events.receiver();
 const docUpdate = Events.receiver();
 
 const updateMarkdownDom = (container, id, doc, md) => {
+  if (container.lastDoc === doc) {return;}
   const result = md.render(doc);
   const div = document.createElement("div");
   div.id = \`\${id}-markdown\`;
@@ -2992,6 +3186,7 @@ const updateMarkdownDom = (container, id, doc, md) => {
   container.dom.querySelector(".markdown")?.remove();
   container.dom.querySelector(".doc-result").appendChild(div);
   div.innerHTML = result;
+  container.lastDoc = doc;
   return div;  
 }
 
@@ -3004,7 +3199,7 @@ const markdownUpdate = ((docUpdate) => {
 
 const initialDoc = ((md) => {
   for (const [id, contents] of windowContents.map) {
-    if (!contents.editor) {continue;}
+    if (!contents.editor || contents.repl) {continue;}
     let editor = contents.editor;
     if (editor.editor) {
       editor = editor.editor;
@@ -3016,6 +3211,7 @@ const initialDoc = ((md) => {
 })(md);
 
 const moveSeparator = ((docSeparators) => {
+  // console.log(docSeparators);
   for (const [id, docSeparator] of docSeparators.map) {
     const container = windowContents.map.get(id);
     container.dom.querySelector(".doc-result").style.width = \`\${docSeparator.docWidth}px\`;
@@ -3024,4 +3220,270 @@ const moveSeparator = ((docSeparators) => {
     container.dom.querySelector(".doc-editor-container").style.display = docSeparator.editorWidth <= 60 ? "none" : "inherit";
   }
 })(docSeparators);
-`]]}
+`],
+[`90`, `# Croquet
+
+This JSON string specifies what nodes are used in the program state of Croquet model side. Typically, the logical application data, as well as the event receviers for user events that triggers changes in the model are specified.
+
+The window title of the code pane is significant for now. That is the window called "Croquet" is treated differently.
+
+Other Croquet parameters are supplied via an external file apiKey.js or apiKey-dev.js, and URL parameters.`],
+[`91`, `# Initialization
+
+The libraries (Preact and Markdown-it) are loaded. Also the DOM elements that are static, or don't change over the lifetime of the app, are created.`],
+[`92`, `# Runner
+
+The \`newRunner\` node specifies the srcdoc for the runner. The runner receives DOM a message from the parent Renkon-pad to run it. It also has the inspector on/off.
+
+The code is received for the first time, two ProgramStates (for the Croquet model and the Croquet view) are created. When a new set of code is received, the receiving iframe keeps them, but update code in the Croquet view.`],
+[`93`, `# View
+
+This text box contains the nodes that might be in th needed to support multiplayer.
+
+\`padView\` is "multiplexed" in the model side as \`padViews\`. \`padView\` contains the values for this peer.
+
+\`windowContentsModel\` in the model side contains CodeMirror editor objects. There is a bit of trickerly involved to support both single user and multi user cases. In the multiuser case, \`windowContents\` has another instance of CodeMirror editor that is to be synchronized with \`@codemirror/collab\` (not implemented yet). In the single user case, the \`create\` static method simply returns the argument passed in to use the same instance of CodeMirror editor for both "model", and "view."`],
+[`94`, `# CodeMirror Editor
+
+The \`newEditor\` function creates a CodeMirror Editor instance with custom extensions.`],
+[`95`, `# HoverPlugin
+
+HoverPlugin is a CodeMirror extension that shows the dependency and dependents of the node.`],
+[`96`, `# Data Structure
+
+This text box contains node definitions for the logical data of the application.
+
+You can think that the values in those nodes are to be saved into the file, and they are enough to reconstruct the application state from them.
+
+Renkon-pad effectively is a list of windows. Each window has position, title, windowType, etc. FRP favors that each property is stored in a separate data structure. Namely if you have two windows with ID = "1" and ID = "2", then those data structures look like:
+
+<code>
+  <pre>
+windows: [“1”, “2”]
+positions: Map(
+	“1” → {x: 100, y: 243, w: 325, h: 96},
+	“2” → {x: 530, y: 330, w: 582, h: 320})
+titles: Map(
+	“1” → “test”,
+	“2” → “my runner”)
+windowTypes: Map(
+	“1”→ “code”,
+	“2” → “runner”)
+windowContents: Map(
+       “1” → EditorView,
+       “2” → iframe)
+</pre>
+</code>
+
+meaning that the "windows" stores only the IDs, and \`positions\`, \`titles\`, etc. are a Map keyed by that ID and have values for that ID. It is like each property is a column in a spread sheet.
+
+\`padViews\` contains all view cconfigurations of peers. This is needed when we add a way to follow another user.`],
+[`97`, `# User Interaction
+
+This text box, along with "Pointer Handling" have most of the handling for user events. 
+
+\`Events.listener\` adds an event listener to a concrete DOM element. The value returned from the callback becomes the value of the event. Most of those have \`evt => evt\` as callback and the event itself becomes the value. However for certain cases, such as wheel and similar ones call \`preventDefault()\` and \`stopPropagation()\` etc. to invoke those in the listener. For \`evt => evt\` case, the "real thing" happens on the event that stored in the internal data structure and later processed by other functions, but \`preventDefault\` cannot work in that way.
+
+The values for the "pan and zoom" feature of the 2D canvas is stored in padView, and the canvas' transform is directly updated in the \`style\` of "#mover" element. We don't want to generate the tree of virtual DOM.
+
+Handling \`wheel\` event is complcated as there are quite a few cases to handle.`],
+[`98`, `# Pointer Handling
+
+An interesting idea about event handling in Renkon-pad is that most basic events such as pointerdown, pointermove and pointerup are handled at the "pad" level, and not individual window. Let us take \`pointermove\` as an example. \`pointermove\` can be used to resize the window by dragging one of the corners, or to move the window by dragging the title bar, or to pan the background by dragging the "pad". One might consider adding a pointermove event handler to each of those small elements such as a resizer or titlebar. But there are two reasons it is cumbersome. One reason is general to any UI; because we support multi-touch, we need to handle cases where the secondary \`pointerdown\` or \`pointermove\` needs a "global" view of where the primary \`pointerdown\` was. The second reason is that the FRP favors known set of event sources so that the "wired" dependency graph does not change all the time.
+
+The \`moveCompute\` node is used by the \`_padMove\` Events.listener node. \`moveCompute\` itself is reactive and becomes different function based on where the last \`pointerdown\` was, for example. Whenever \`moveCompute\` gets a new value, the \`_padMove\` node is updated, which means that the old listener is automatically removed and the new function is added as the listener. That way, there is only one pointer move handler for things on the pad, but its actual behavior changes based on the circumstances.
+
+`],
+[`99`, `# Search
+
+There is a global search panel that works across multiple text boees. When you look for the next match, the scale of the pad is kept the same but the search logic pans the pad to put the match in the view.
+
+The \`searchState\` node keeps track of where is the starting point when looking for the "next" match. It means that if the user moves the cursor in any of text box, the previous state needs to be cleared and the changed cursor position becomes the next search start position.
+`],
+[`100`, `# Rendering
+
+The rendering involves Preact virtual DOM, but the virtual DOM structure in effect does not change when you just move or resize a window, or pan or zoom the pad. Movement is done by generating a separate CSS in the \`_positionsCss\` node and update the \`style\` node. In this way we bypass the regeneration of the entire virtual DOM tree and diffing when you are just moving a window.
+
+\`_positionCss\` handles the case when a window is "pinned", to keep the window's position and scale in the screen coordinate even when you pan and zoom the background. There are only a handful lines that are crucial to implement this, but they have to be exactly right.`],
+[`101`, `# Graph Visualization
+
+Dependency graph visualization first analyzes the dependency relationship. We do this by creating a new \`ProgramState\` instance, feed the content of text boxes to it, and figures out what node names are imported and exported by the text box. (yes, we do this at every pointerEnter and pointerLeave on any text boxes.)
+
+The \`analyzed\` result is then fed to the \`graph\` node, which creates a list of SVG elements. Then the \`_graphRender\` renders the SVG elements to the \`overlay\` element, which is carefully located at the same position ad the \`pad\`.`],
+[`102`, `# Save and Load
+
+The file format has two parts. The first part is a JSON string that stores windows, positions, zIndex, titles, windowTypes, padTitle and windowEnabled. The second part is still JSON like, but the contents of text boxes and docs are stored with line breaks kept so that line oriented diff works better.
+`],
+[`103`, `# Load Model
+
+In the multiplayer case, the loaded data from one peer has to be sent to others. The traffic via the reflector has rate and size limits so that the loaded data is sent in chunks.`],
+[`104`, `# Doc Window
+
+A Doc window holds the Markdown text and rendered result.
+`],
+[`105`, `# CSS
+
+There is no magic here... Except any advanced feature appears to be a magic in CSS.
+
+\`transform-origin: 0px 0x\` is important for any element that is transformed. 
+
+\`mover\` is an actual element created in \`renkon\`. \`owner\` is a virtual DOM appended to \`mover\` and it is also zero-sized.
+
+SVG icons are created in 24x24 viewport, and converted to the data string.`],
+[`109`, `const addStrudel = Events.listener(renkon.querySelector("#addStrudelButton"), "click", () => "strudel");
+const me = Renkon.app.viewId;
+const initStrudelWindow = Events.receiver();
+const doAction = Events.receiver();
+const strudelUpdate = Events.receiver();
+
+const doPlay = ((strEvents) => {
+  for (const [id, contents] of windowContents.map) {
+    if (id == strEvents.id) {
+      console.log(strEvents);
+      strEvents.action == "play" ? contents.repl.evaluate() : contents.repl.stop();
+    }
+  }
+})(strEvents);
+
+const strEvents = Behaviors.select(
+  [],
+  doAction, (prev, action) => action
+);
+
+const avatars = Behaviors.collect([], viewJoin, (prev, newOne) => [...prev, newOne]);
+console.log(avatars);
+console.log(Renkon.app.viewId);
+
+const newStrudelPane = (id, docModel) => {
+  
+  const mirror = window.CodeMirror;
+  const toolbar = document.createElement("div");
+  toolbar.id = \`\${id}-toolbar-container\`;
+  toolbar.innerHTML = \`
+    <div></div>
+  \`.trim();
+
+  const canvas = document.createElement('canvas');
+  canvas.id = \`\${id}-roll\`;
+  const container = document.createElement("div");
+  container.id = \`\${id}-strudel-container\`;
+  container.classList.add("strudel-container");
+  container.innerHTML = \`
+   <div id="\${id}-editor-container" class="strudel-editor-container"></div>
+\`.trim();
+  container.prepend(toolbar);
+  
+// TODO: Canvas and Widgets 
+// container.appendChild(canvas);
+// const drawContext = canvas.getContext('2d');
+// const drawTime = [-2, 2];
+// const initCanvas = (() => {
+//   canvas.width = canvas.width * 2;
+//   canvas.height = canvas.height * 2;
+// })();
+  
+  const callback = (id, viewUpdate) => {
+    if (viewUpdate.docChanged) {
+      const str = viewUpdate.state.doc.toString();
+      Events.send(strudelUpdate, {id, doc: str});
+    }
+  };
+  const extensions = [
+    mirror.basicSetup,
+    mirror.EditorView.lineWrapping,
+    mirror.EditorView.updateListener.of((viewUpdate) => callback(id, viewUpdate)),
+    mirror.EditorView.editorAttributes.of({"class": "strudel-editor"}),
+    mirror.view.keymap.of([mirror.commands.indentWithTab])
+  ];
+
+  const  samples = window.StrudelLib.webaudio.samples;
+  async function loadSamples() {
+  const ds = "https://raw.githubusercontent.com/felixroos/dough-samples/main/";
+  return Promise.all([
+    samples(\`\${ds}\\/tidal-drum-machines.json\`),
+    samples(\`\${ds}\\/piano.json\`),
+    samples(\`\${ds}\\/Dirt-Samples.json\`),
+    samples(\`\${ds}\\/EmuSP12.json\`),
+    samples(\`\${ds}\\/vcsl.json\`),
+    samples(\`\${ds}\\/mridangam.json\`),
+  ]);
+};
+
+  const editorView = id ? new window.StrudelMirror({
+  root: container.querySelector(".strudel-editor-container"),
+  defaultOutput: window.StrudelLib.webaudio.webaudioOutput,
+  getTime: () => window.StrudelLib.webaudio.getAudioContext().currentTime,  
+  transpiler: window.StrudelLib.transpiler.transpiler,
+  initialCode: docModel.editor.state.doc, //'note(\\"c3 eb3 g3\\")',
+  editor: docModel,
+  prebake: async () => {
+    window.StrudelLib.webaudio.initAudioOnFirstClick();
+    const loadModules = window.StrudelLib.core.evalScope(
+      window.StrudelLib.core,
+      window.StrudelLib.draw,
+      window.StrudelLib.mini,
+      window.StrudelLib.tonal,
+      window.StrudelLib.webaudio,
+      window.StrudelLib.soundfonts
+    );
+    await Promise.all([loadModules, 
+        window.StrudelLib.webaudio.registerSynthSounds(), 
+        window.StrudelLib.soundfonts.registerSoundfonts()]);
+
+    loadSamples();
+  },
+  renkon: Renkon
+}) : {};
+
+  const editor = editorView.editor;
+  editor.dom.id = \`\${id}-strudel-editor\`;
+  editor.app = editor;
+  container.querySelector(".strudel-editor-container").appendChild(editor.dom);
+
+  const observer = new window.MutationObserver((mutations, obs) => {
+    const target = document.getElementById(id + "-toolbar-container");
+    if (target) {
+        console.log("Element is now in the DOM!");
+        obs.disconnect(); // Stop looking once found
+      Events.send(initStrudelWindow, {"i": true});  
+    }
+});
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
+});
+  
+  return {dom: container, repl: editorView, editor: editor, viewState: true};
+}
+
+
+const initialStrudelDoc = ((initStrudelWindow) => {
+  for (const [id, contents] of windowContents.map) {
+    if (!contents.repl) {continue;}
+  let editor = contents.repl;
+  const toolbar = document.getElementById(id + "-toolbar-container");
+  toolbar ? render(windowStrudelDOM(id), toolbar) : {};
+  }
+})(initStrudelWindow);`],
+[`110`, `const windowStrudelDOM = (id) => {
+  return h("div", {
+    key: \`\${id}\`,
+    id: \`\${id}-toolbar\`,
+    "class": "toolbar"
+  }, [
+    h("button", {
+        id: \`\${id}-playButton\`,
+        onClick: (evt) => {
+          Events.send(doAction, {id: \`\${Number.parseInt(evt.target.id)}\`, action: "play", sender: me});
+        },
+      }, 'Play'),
+    h("button", {
+        id: \`\${id}-stopButton\`,
+        onClick: (evt) => {
+          Events.send(doAction, {id: \`\${Number.parseInt(evt.target.id)}\`, action: "stop", sender: me});
+        },
+      },
+'Stop')
+    ])};
+`],
+[`121`, `# Strudel REPL`]]}

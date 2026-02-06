@@ -57,9 +57,9 @@ export function initEditor({ initialCode = '', onChange, onEvaluate, onStop, mon
     // widgetPlugin,
     // // indentOnInput(), // works without. already brought with javascript
     // // extension? bracketMatching(), // does not do anything
-    window.CodeMirror.lang.syntaxHighlighting(window.CodeMirror.lang.defaultHighlightStyle)
-    // EditorView.updateListener.of((v) => onChange(v)),
-    // drawSelection({ cursorBlinkRate: 0 }),
+    window.CodeMirror.lang.syntaxHighlighting(window.CodeMirror.lang.defaultHighlightStyle),
+    window.CodeMirror.view.EditorView.updateListener.of((v) => onChange(v)),
+    window.CodeMirror.view.drawSelection({ cursorBlinkRate: 0 })
     // Prec.highest(
     //   keymap.of([
     //     {
@@ -130,7 +130,7 @@ export class StrudelMirror {
       this.onDraw(haps, time, painters);
     }, drawTime);
 
-    this.prebaked = async () => { }; //prebake();
+    this.prebaked = prebake(); //async () => { }; //prebake();
     autodraw && this.drawFirstFrame();
     this.repl = window.StrudelLib.core.repl({
       ...replOptions,
@@ -186,9 +186,9 @@ export class StrudelMirror {
       theme,
       // isAutoCompletionEnabled,
       // isTooltipEnabled,
-      isPatternHighlightingEnabled: (on) => (on ? isPatternHighlightingEnabled() : []),
-      isActiveLineHighlighted: (on) => (on ? [window.CodeMirror.view.highlightActiveLine(), window.CodeMirror.view.highlightActiveLineGutter()] : [])
-      // isFlashEnabled,
+      isPatternHighlightingEnabled, //(on) => (on ? isPatternHighlightingEnabled() : []),
+      isActiveLineHighlighted: (on) => (on ? [window.CodeMirror.view.highlightActiveLine(), window.CodeMirror.view.highlightActiveLineGutter()] : []),
+      isFlashEnabled
       // keybindings,
       // isTabIndentationEnabled: (on) => (on ? keymap.of([indentWithTab]) : []),
       // isMultiCursorEnabled: (on) =>
