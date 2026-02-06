@@ -17,7 +17,13 @@ Based on [Renkon-Pad & Croquet](https://github.com/yoshikiohshima/renkon-pad) an
 
 <img style="border: 6px solid #eee" src="./doc/musical-pad/video1.gif"></img>
 
-## Run
+### Run & Develop
+
+The easiest way to run the pad is to use the ```dev``` branch of this repository, which contains the full distribution of the [Renkon-Pad](https://github.com/yoshikiohshima/renkon-pad) with merged Musical Collaborative Pad files.     
+
+The ```main``` branch of this repository contains only Musical Collaborative Pad related files and those that touch the original Renkon-Pad. You can place & merge them into any other Renkon-Pad distribution on your own.   
+
+To run
 
 ```node server.js```
 
