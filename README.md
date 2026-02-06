@@ -3,6 +3,8 @@
 **Musical Collaborative Pad** is an open-source project aiming creating live collaborative environment running within Web Browser/NodeJS for creating musical collaborative instruments and performing with them online.  
 Based on [Renkon-Pad & Croquet](https://github.com/yoshikiohshima/renkon-pad) and [Strudel](https://codeberg.org/uzu/strudel)  
 
+#### Live demo at https://pad.krestianstvo.org
+
 <img style="border: 6px solid #eee" src="./doc/musical-pad/screen1.jpg"></img>
 
 ## Development status (WIP)
@@ -19,4 +21,4 @@ Based on [Renkon-Pad & Croquet](https://github.com/yoshikiohshima/renkon-pad) an
 
 ```node server.js```
 
-**Note**: For local development the [Croquet in a box](https://github.com/croquet/croquet) should be used.
+**Note**: For local development the [Croquet in a box](https://github.com/croquet/croquet) could be used.
