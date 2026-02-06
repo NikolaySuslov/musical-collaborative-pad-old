@@ -4,6 +4,8 @@
 Based on [Renkon-Pad & Croquet](https://github.com/yoshikiohshima/renkon-pad) and [Strudel](https://codeberg.org/uzu/strudel)  
 
 #### Live demo at https://pad.krestianstvo.org
+You can initiate different sessions, like:
+https://pad.krestianstvo.org/?q=myPad
 
 <img style="border: 6px solid #eee" src="./doc/musical-pad/screen1.jpg"></img>
 
@@ -25,6 +27,7 @@ The ```main``` branch of this repository contains only Musical Collaborative Pad
 
 To run
 
-```node server.js```
+```node server.js```.  
+Open url in browser: http://localhost:8000/?q=a1#pw=abc
 
 **Note**: For local development the [Croquet in a box](https://github.com/croquet/croquet) could be used.
